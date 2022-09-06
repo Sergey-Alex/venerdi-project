@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/venerdi-project/static/css/main.1c5900e3.css",
+    "main.js": "/venerdi-project/static/js/main.dcf7c620.js",
+    "index.html": "/venerdi-project/index.html",
+    "main.1c5900e3.css.map": "/venerdi-project/static/css/main.1c5900e3.css.map",
+    "main.dcf7c620.js.map": "/venerdi-project/static/js/main.dcf7c620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c5900e3.css",
+    "static/js/main.dcf7c620.js"
+  ]
+}
